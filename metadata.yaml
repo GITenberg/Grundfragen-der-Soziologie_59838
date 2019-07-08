@@ -1,0 +1,24 @@
+_repo: Grundfragen-der-Soziologie_59838
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Simmel, Georg
+    alias: Simmel, G. (Georg)
+    birthdate: 1858
+    deathdate: 1918
+    gutenberg_agent_id: '37521'
+    url: http://www.gutenberg.org/2009/agents/37521
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Simmel
+description: ''
+gutenberg_issued: '2019-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59838'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Grundfragen der Soziologie
+url: http://www.gutenberg.org/ebooks/59838
